@@ -1,0 +1,12 @@
+.first >h1{
+    color:rgb(146, 157, 172);
+    background-color: rgb(7, 36, 59);
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+.first{
+    
+    background-image: url('https://i.pinimg.com/originals/15/d3/34/15d334d574ef0475935be6ed25c0eee6.jpg');
+    min-height: 100vh;
+   text-align: center;
+}
